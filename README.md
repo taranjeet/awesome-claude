@@ -5,11 +5,11 @@ Claude is a new LLM released by [Anthropic AI](https://www.anthropic.com/)
 
 ## Contents
 
-- [Comparison between Anthropic's Claude & OpenAI's ChatGPT](#comparison-between-anthropics-claude--openais-chatgpt)
+- [Comparison between Claude & ChatGPT](#comparison-between-claude--chatgpt)
 - [Claude Use cases](#claude-use-cases)
 - [Where Claude lacks](#where-claude-lacks)
 
-## Comparison between Anthropic's Claude & OpenAI's ChatGPT
+## Comparison between Claude & ChatGPT
 
 ### Where ChatGPT is better
 
