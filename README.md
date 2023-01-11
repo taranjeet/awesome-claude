@@ -1,6 +1,13 @@
 # awesome-claude
 
+
+Claude is a new LLM released by [Anthropic AI](https://www.anthropic.com/)
+
+## Contents
+
 - [Comparison between Anthropic's Claude & OpenAI's ChatGPT](#comparison-between-anthropics-claude--openais-chatgpt)
+- [Claude Use cases](#claude-use-cases)
+- [Where Claude lacks](#where-claude-lacks)
 
 ## Comparison between Anthropic's Claude & OpenAI's ChatGPT
 
@@ -22,7 +29,7 @@
 - [Claude is somewhat better at trivia questions ](https://twitter.com/yanndubs/status/1611451001101484032)
 - [Less susceptible to prompt injections](https://twitter.com/goodside/status/1612452751610417158)
 
-## Use cases
+## Claude Use cases
 
 ### Creativity
 
