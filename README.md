@@ -1,5 +1,7 @@
 # awesome-claude
 
+- [Comparison between Anthropic's Claude & OpenAI's ChatGPT](#comparison-between-anthropics-claude--openais-chatgpt)
+
 ## Comparison between Anthropic's Claude & OpenAI's ChatGPT
 
 ### Where ChatGPT is better
