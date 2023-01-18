@@ -8,6 +8,7 @@ Claude is a new LLM released by [Anthropic AI](https://www.anthropic.com/)
 - [Comparison between Claude & ChatGPT](#comparison-between-claude--chatgpt)
 - [Claude Use cases](#claude-use-cases)
 - [Where Claude lacks](#where-claude-lacks)
+- [Articles](#articles)
 
 ## Comparison between Claude & ChatGPT
 
@@ -52,3 +53,7 @@ Claude is a new LLM released by [Anthropic AI](https://www.anthropic.com/)
 - [Accepts that it does not know solutions to hard problems](https://twitter.com/goodside/status/1611700794763448321)
 - [Hallucinates on facts](https://twitter.com/goodside/status/1611914862514298880)
 - [Not able to hold an interesting conversation with itself.](https://twitter.com/goodside/status/1612017392518840320)
+
+## Articles
+
+- [ChatGPT vs Claude - A detailed article by Scale](https://scale.com/blog/chatgpt-vs-claude)
